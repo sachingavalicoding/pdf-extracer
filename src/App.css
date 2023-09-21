@@ -1,0 +1,10 @@
+.btn{
+    width: max-content;
+    padding: 0.7rem 0.9rem;
+    color:white;
+    background: rgb(40, 144, 229);
+    border-radius: 0.8rem;
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin: 0.4rem 0.7rem;
+}
